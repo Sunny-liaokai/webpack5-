@@ -8,7 +8,7 @@ function component () {
     el.innerHTML = _.join(['Hello', 'webpack'], '')
     el.classList.add('hello')
     const btn = document.createElement('btn')
-    btn.innerHTML='点击哈哈哈哈'
+    btn.innerHTML='点击哈哈哈哈221321321'
     btn.onclick = printMe;
 
     const myIcon = new Image()
